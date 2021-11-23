@@ -63,9 +63,14 @@ body{background-color: rgb(14, 11, 11);}
 
 }
 
+.CardH
+{
+    transition: all .2s ease-in-out;
+}
+
 .CardH:hover
 {
-    transform: scale(1.1) ;
+    transform: scale(1.13) ;
     
 
 }
